@@ -57,6 +57,7 @@ sudo systemctl status memcached
 
 ### Решение 4
 ![alt text](https://github.com/sharvik22/11-02.md/blob/main/images/9.png)
+![alt text](https://github.com/sharvik22/11-02.md/blob/main/images/10.png)
 
 ---
 
@@ -71,6 +72,5 @@ sudo systemctl status memcached
 *Приведите скриншот, где будут проделаны все операции и будет видно, что значение key5 стало равно 10.*
 
 ### Решение 5
-![alt text](https://github.com/sharvik22/11-02.md/blob/main/images/10.png)
 
 ![alt text](https://github.com/sharvik22/11-02.md/blob/main/images/11.png)
