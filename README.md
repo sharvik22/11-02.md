@@ -33,7 +33,7 @@ sudo systemctl status memcached
 
 ![alt text](https://github.com/sharvik22/3md/blob/main/images/1-2.png)
 
-![alt text] (https://github.com/sharvik22/11-02.md/tree/main/images/1.png)
+![alt text](https://github.com/sharvik22/11-02.md/tree/main/images/1.png)
 
 ---
 
