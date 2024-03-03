@@ -23,6 +23,12 @@
 
 ### Решение 2
 
+sudo apt update
+sudo apt install memcached
+sudo systemctl start memcached
+sudo systemctl status memcached
+
+
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
