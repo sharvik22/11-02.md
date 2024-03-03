@@ -31,7 +31,7 @@ sudo systemctl start memcached
 
 sudo systemctl status memcached
 
-![alt text](https://github.com/sharvik22/11-02.md/tree/main/images/)
+![alt text](https://github.com/sharvik22/11-02.md/tree/main/images/1.png)
 
 ---
 
