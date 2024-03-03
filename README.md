@@ -31,8 +31,6 @@ sudo systemctl start memcached
 
 sudo systemctl status memcached
 
-![alt text](https://github.com/sharvik22/11-02.md/tree/main/images/1.png)
-
 ![alt text](https://github.com/sharvik22/11-02.md/blob/main/images/1.png)
 
 ---
@@ -44,6 +42,8 @@ sudo systemctl status memcached
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 
 ### Решение 3
+![alt text](https://github.com/sharvik22/11-02.md/blob/main/images/6.png)
+
 
 ---
 
@@ -54,6 +54,7 @@ sudo systemctl status memcached
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
 ### Решение 4
+![alt text](https://github.com/sharvik22/11-02.md/blob/main/images/9.png)
 
 ---
 
@@ -66,3 +67,8 @@ sudo systemctl status memcached
 Запишите в Redis ключ key5 со значением типа "int" равным числу 5. Увеличьте его на 5, чтобы в итоге в значении лежало число 10.  
 
 *Приведите скриншот, где будут проделаны все операции и будет видно, что значение key5 стало равно 10.*
+
+### Решение 5
+![alt text](https://github.com/sharvik22/11-02.md/blob/main/images/10.png)
+
+![alt text](https://github.com/sharvik22/11-02.md/blob/main/images/11.png)
