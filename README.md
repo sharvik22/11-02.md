@@ -33,6 +33,8 @@ sudo systemctl status memcached
 
 ![alt text](https://github.com/sharvik22/11-02.md/tree/main/images/1.png)
 
+![alt text](https://github.com/sharvik22/11-02.md/blob/main/images/1.png)
+
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
